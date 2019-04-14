@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Антон Дрозд](https://up.htmlacademy.ru/adaptive/16/user/306293).
-* Наставник: `Неизвестно`.
+* Студент: [Denny]
+* Наставник: [Antony]
 
 ---
 
